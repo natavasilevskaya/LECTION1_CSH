@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿//Программа ввыводит в терминал строку с приветсвием пользователя
+
+Console.WriteLine("Hello, World!");
